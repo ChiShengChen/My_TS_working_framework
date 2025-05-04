@@ -7,9 +7,9 @@
 3. https://github.com/decisionintelligence/TFB  
 4. https://github.com/GestaltCogTeam/BasicTS  
 5. https://github.com/TongjiFinLab/FinTSB  
-6. https://github.com/microsoft/ProbTS
+6. https://github.com/microsoft/ProbTS  
    or
-from my fork:
+from my fork:  
 1. https://github.com/ChiShengChen/TFB
 2. https://github.com/ChiShengChen/BasicTS
 3. https://github.com/ChiShengChen/FinTSB
