@@ -9,6 +9,7 @@
 5. https://github.com/TongjiFinLab/FinTSB  
 6. https://github.com/microsoft/ProbTS
 7. https://github.com/amazon-science/chronos-forecasting
+8. https://github.com/PriorLabs/tabpfn-time-series
    or
 from my fork:  
 1. https://github.com/ChiShengChen/TFB
@@ -18,6 +19,7 @@ from my fork:
 5. https://github.com/ChiShengChen/gift-eval
 6. https://github.com/ChiShengChen/uni2ts
 7. https://github.com/ChiShengChen/chronos-forecasting
+8. https://github.com/ChiShengChen/tabpfn-time-series
 
 `git clone https://github.com/SalesforceAIResearch/gift-eval.git`  
 `cd gift-eval`  
