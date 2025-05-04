@@ -33,12 +33,10 @@ Install timesfm package in a python 3.10.x env:
 ``
 pip install timesfm[pax]
 ``
-
 You can also try the torch version in a python 3.11.x env:
 ``
 pip install timesfm[torch]
 ``
-
 After that you can install the gift-eval package:
 ``
 pip install -e .
