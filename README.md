@@ -10,8 +10,9 @@
 6. https://github.com/microsoft/ProbTS
 7. https://github.com/amazon-science/chronos-forecasting
 8. https://github.com/PriorLabs/tabpfn-time-series
-   or
-from my fork:  
+   
+or from my forks:
+
 1. https://github.com/ChiShengChen/TFB
 2. https://github.com/ChiShengChen/BasicTS
 3. https://github.com/ChiShengChen/FinTSB
