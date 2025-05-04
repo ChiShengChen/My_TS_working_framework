@@ -10,6 +10,7 @@
 6. https://github.com/microsoft/ProbTS
 7. https://github.com/amazon-science/chronos-forecasting
 8. https://github.com/PriorLabs/tabpfn-time-series
+9. https://github.com/ibm-granite/granite-tsfm
    
 or from my forks:
 
@@ -21,6 +22,7 @@ or from my forks:
 6. https://github.com/ChiShengChen/uni2ts
 7. https://github.com/ChiShengChen/chronos-forecasting
 8. https://github.com/ChiShengChen/tabpfn-time-series
+9. https://github.com/ChiShengChen/granite-tsfm
 
 `git clone https://github.com/SalesforceAIResearch/gift-eval.git`  
 `cd gift-eval`  
