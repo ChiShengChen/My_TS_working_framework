@@ -27,4 +27,19 @@ or from my forks:
 `pip install -e .`  
 `pip install -e .[baseline]`  
 `pip install uni2ts`  `pip install gluonts==0.15.1`  
-`pip install chronos-forecasting`
+`pip install chronos-forecasting`  
+
+Install timesfm package in a python 3.10.x env:
+``
+pip install timesfm[pax]
+``
+
+You can also try the torch version in a python 3.11.x env:
+``
+pip install timesfm[torch]
+``
+
+After that you can install the gift-eval package:
+``
+pip install -e .
+``
