@@ -23,5 +23,5 @@ from my fork:
 `cd gift-eval`  
 `pip install -e .`  
 `pip install -e .[baseline]`  
-`pip install uni2ts`  
+`pip install uni2ts`  `pip install gluonts==0.15.1`  
 `pip install chronos-forecasting`
