@@ -1,0 +1,1 @@
+python experiments/train.py -c baselines/QASA/ETTh1.py --gpus '0'
